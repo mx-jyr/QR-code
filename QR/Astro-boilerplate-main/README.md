@@ -269,4 +269,5 @@ Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
 
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
 #   m x - o n e  
+ #   m x - o n e  
  
