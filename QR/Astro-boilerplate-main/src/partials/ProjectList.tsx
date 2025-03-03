@@ -23,7 +23,7 @@ const ProjectList = () => (
         完成认证后，个人专属的校园交易空间就此开启，无论是“寻宝”还是“出货”，都将畅通无阻。"
         link="/"
         img={{
-          src: '/assets/images/project-web-design.png',
+          src: '/assets/images/旅游1.png',
           alt: 'Project Web Design',
         }}
         category={
@@ -42,7 +42,7 @@ const ProjectList = () => (
         应有尽有。若你心中已有目标，搜索栏便是精准导航，输入关键词，便可瞬间锁定心仪好物，
         节省时间，高效筛选，让每一次查找都直击所需。"
         link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
+        img={{ src: '/assets/images/手机1.png', alt: 'Project Fire' }}
         category={
           <>
             <Tags color={ColorTags.VIOLET}>简洁直观</Tags>
@@ -57,7 +57,7 @@ const ProjectList = () => (
         只需详细填写信息，物品成色如何、当初买入价格多少、期望的售出价格，一目了然。附上物品的真实照片，划痕、磨损等细节都坦诚相告，让买家心里有底。而买家在“我要买”板块，同样清晰描述求购信息与期望价格，
         双方基于充分的信息交互，公平议价，便可顺利达成双赢交易。"
         link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        img={{ src: '/assets/images/礼物.png', alt: 'Project Maps' }}
         category={
           <>
             <Tags color={ColorTags.SKY}>物品成色</Tags>
@@ -74,7 +74,7 @@ const ProjectList = () => (
         任何问题都能在一来一往的对话中消除不确定性，为成功交易筑牢信任的基石。"
         link="/"
         img={{
-          src: '/assets/images/project-web-design.png',
+          src: '/assets/images/气泡.png',
           alt: 'Project Web Design',
         }}
         category={
@@ -93,7 +93,7 @@ const ProjectList = () => (
       这种灵活的交易模式，贴合校园的生活节奏，也满足了不同场景的需求。"
       link="/"
       img={{
-        src: '/assets/images/project-web-design.png',
+        src: '/assets/images/购物车.png',
         alt: 'Project Web Design',
       }}
       category={
@@ -112,7 +112,7 @@ const ProjectList = () => (
       待有空余资金或者刚需时刻，便可一键下单。"
       link="/"
       img={{
-        src: '/assets/images/project-web-design.png',
+        src: '/assets/images/个人中心.png',
         alt: 'Project Web Design',
       }}
       category={
